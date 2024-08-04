@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Data Science from PWskills**
 
-- 💬 Ask me about **Machine learning**
+- 💬 Ask me about **Data Science**
 
-- 📫 How to reach me **aniketstudent1@gmail.com**
+- 📫 How to reach me **aniketsk668@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
